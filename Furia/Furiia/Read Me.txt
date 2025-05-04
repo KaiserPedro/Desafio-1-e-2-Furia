@@ -1,0 +1,30 @@
+Furia Chatbot
+Um Chatbot Simples feito para os Fãs da Furia Esports, com uma atenção especial para o Time de CS. Feito totalmente com HTML, CSS e JavaScript.
+---------------------------
+Funcionalidades:
+
+-Mensagem Automatica de Boas-Vindas
+-Suporte para o Botão Enter
+-Menu de Interações com tópicos
+-Link Cliclaveis para a Loja oficial, Suporte e redes sociais da Furia
+-Facilidade de modelar o chat para conter novas respostas
+-Tema da pagina com as Cores da Furia
+-A Cor das letras tanto do Bot como do Usuario são bem visiveis
+-Botão para ir para o site oficial da Furia
+-Capacidade de Navegar entre a pesquisa de coleta de dados e o Chatbot Livremente
+----------------------------
+Como usar:
+
+1. Salvar na mesma pasta os arquivos:
+	-index.html
+	-index.css
+	-chatbot.js
+	-Furia_logo.png
+2. Abrir o index.html utilizando um navegador
+----------------------------
+Contato e colaboração:
+
+Você pode modificar e usar como quiser.
+----------------------------
+Autor: Pedro de Morais Sarreta Lucas
+Licença: MIT
